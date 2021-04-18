@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Full_Syrup</title>
+    <link>https://Full-Syrup.github.io/page/</link>
+    <description>Recent content in Pages on Full_Syrup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Full-Syrup.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>https://Full-Syrup.github.io/%E5%85%B3%E4%BA%8E/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Full-Syrup.github.io/%E5%85%B3%E4%BA%8E/</guid>
+      <description>非典型中二病，小地级市高中在读，技多而无一精。
+在玩mc、r6s和一些ccg。
+Licensed under CC BY-NC-SA 4.0 </description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://Full-Syrup.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://Full-Syrup.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://Full-Syrup.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Full-Syrup.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on Full_Syrup</title>
+    <link>https://Full-Syrup.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on Full_Syrup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Full-Syrup.github.io/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, world!</title>
+      <link>https://Full-Syrup.github.io/p/hello-world/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Full-Syrup.github.io/p/hello-world/</guid>
+      <description>正文测试 Hello, World!
+引用  我实在是没有说过这样一句话。
+——鲁迅
+ 图片  傍晚的车棚 
+hello world </description>
+    </item>
+    
+  </channel>
+</rss>
